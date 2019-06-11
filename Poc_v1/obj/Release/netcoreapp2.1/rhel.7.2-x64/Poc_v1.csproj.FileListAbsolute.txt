@@ -1,0 +1,11 @@
+C:\Users\rafael.traczinski\source\repos\Poc_v1\Poc_v1\bin\Release\netcoreapp2.1\rhel.7.2-x64\Poc_v1.deps.json
+C:\Users\rafael.traczinski\source\repos\Poc_v1\Poc_v1\bin\Release\netcoreapp2.1\rhel.7.2-x64\Poc_v1.runtimeconfig.json
+C:\Users\rafael.traczinski\source\repos\Poc_v1\Poc_v1\bin\Release\netcoreapp2.1\rhel.7.2-x64\Poc_v1.runtimeconfig.dev.json
+C:\Users\rafael.traczinski\source\repos\Poc_v1\Poc_v1\bin\Release\netcoreapp2.1\rhel.7.2-x64\Poc_v1.dll
+C:\Users\rafael.traczinski\source\repos\Poc_v1\Poc_v1\bin\Release\netcoreapp2.1\rhel.7.2-x64\Poc_v1.pdb
+C:\Users\rafael.traczinski\source\repos\Poc_v1\Poc_v1\obj\Release\netcoreapp2.1\rhel.7.2-x64\Poc_v1.csprojAssemblyReference.cache
+C:\Users\rafael.traczinski\source\repos\Poc_v1\Poc_v1\obj\Release\netcoreapp2.1\rhel.7.2-x64\Poc_v1.csproj.CoreCompileInputs.cache
+C:\Users\rafael.traczinski\source\repos\Poc_v1\Poc_v1\obj\Release\netcoreapp2.1\rhel.7.2-x64\Poc_v1.AssemblyInfoInputs.cache
+C:\Users\rafael.traczinski\source\repos\Poc_v1\Poc_v1\obj\Release\netcoreapp2.1\rhel.7.2-x64\Poc_v1.AssemblyInfo.cs
+C:\Users\rafael.traczinski\source\repos\Poc_v1\Poc_v1\obj\Release\netcoreapp2.1\rhel.7.2-x64\Poc_v1.dll
+C:\Users\rafael.traczinski\source\repos\Poc_v1\Poc_v1\obj\Release\netcoreapp2.1\rhel.7.2-x64\Poc_v1.pdb

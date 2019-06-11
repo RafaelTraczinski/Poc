@@ -1,0 +1,17 @@
+C:\Users\rafael.traczinski\source\repos\Poc_v1\Api\obj\Debug\netcoreapp2.2\Api.csproj.CoreCompileInputs.cache
+C:\Users\rafael.traczinski\source\repos\Poc_v1\Api\obj\Debug\netcoreapp2.2\Api.AssemblyInfoInputs.cache
+C:\Users\rafael.traczinski\source\repos\Poc_v1\Api\obj\Debug\netcoreapp2.2\Api.AssemblyInfo.cs
+C:\Users\rafael.traczinski\source\repos\Poc_v1\Api\bin\Debug\netcoreapp2.2\Api.deps.json
+C:\Users\rafael.traczinski\source\repos\Poc_v1\Api\bin\Debug\netcoreapp2.2\Api.runtimeconfig.json
+C:\Users\rafael.traczinski\source\repos\Poc_v1\Api\bin\Debug\netcoreapp2.2\Api.runtimeconfig.dev.json
+C:\Users\rafael.traczinski\source\repos\Poc_v1\Api\bin\Debug\netcoreapp2.2\Api.dll
+C:\Users\rafael.traczinski\source\repos\Poc_v1\Api\bin\Debug\netcoreapp2.2\Api.pdb
+C:\Users\rafael.traczinski\source\repos\Poc_v1\Api\obj\Debug\netcoreapp2.2\Api.dll
+C:\Users\rafael.traczinski\source\repos\Poc_v1\Api\obj\Debug\netcoreapp2.2\Api.pdb
+C:\Users\rafael.traczinski\source\repos\Poc_v1\Api\bin\Debug\netcoreapp2.2\Poc_v1.dll
+C:\Users\rafael.traczinski\source\repos\Poc_v1\Api\bin\Debug\netcoreapp2.2\Poc_v1.pdb
+C:\Users\rafael.traczinski\source\repos\Poc_v1\Api\obj\Debug\netcoreapp2.2\Api.csprojAssemblyReference.cache
+C:\Users\rafael.traczinski\source\repos\Poc_v1\Api\obj\Debug\netcoreapp2.2\Api.csproj.CopyComplete
+C:\Users\rafael.traczinski\source\repos\Poc_v1\Api\obj\Debug\netcoreapp2.2\Api.RazorTargetAssemblyInfo.cache
+C:\Users\rafael.traczinski\source\repos\Poc_v1\Api\obj\Debug\netcoreapp2.2\Api.RazorAssemblyInfo.cache
+C:\Users\rafael.traczinski\source\repos\Poc_v1\Api\obj\Debug\netcoreapp2.2\Api.RazorAssemblyInfo.cs
